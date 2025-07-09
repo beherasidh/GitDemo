@@ -68,6 +68,14 @@ public WebDriver driver;
 	public void checkout()
 	{
         System.out.println("CheckOut Done");
+        System.err.println("Test for git1");
+	       System.err.println("Test for git2");
+	       System.err.println("Test for git3");
+	       System.err.println("Test for git4");
+	       System.err.println("Test for git5");
+	       System.err.println("Test for git6");
+	       System.err.println("Test for git7");
+	       System.err.println("Test for git8");
 	}
 	
 }
